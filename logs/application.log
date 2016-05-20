@@ -1,0 +1,7 @@
+2016-05-19 19:49:08,949 [INFO] from play.core.server.NettyServer in play-fork-run-akka.actor.default-dispatcher-4 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-05-19 19:49:35,490 [WARN] from application in ForkJoinPool-1-worker-1 - Logger configuration in conf files is deprecated and has no effect. Use a logback configuration file instead.
+2016-05-19 19:49:36,611 [WARN] from application in ForkJoinPool-1-worker-1 - application.conf @ file:/home/europa/play-workspace/play-scala-mysql/target/scala-2.11/classes/application.conf: 38: user is deprecated, use username instead
+2016-05-19 19:49:36,642 [INFO] from application in ForkJoinPool-1-worker-1 - Creating Pool for datasource 'default'
+2016-05-19 19:49:37,392 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:mysql://172.17.0.5/db
+2016-05-19 19:49:38,331 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-05-20 08:43:53,924 [INFO] from application in play-fork-run-akka.actor.default-dispatcher-10 - Shutting down connection pool.
